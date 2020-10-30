@@ -1,0 +1,1 @@
+A Tic Tac Toe game made manually with JAVA where the computer chooses a certain position to play first and beats the opponent, in worst case the game is a draw.
